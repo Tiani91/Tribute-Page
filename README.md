@@ -1,5 +1,3 @@
-//# Tribute-Page All Scripting in one spot//
-//HTML//
 <script>
   $(document).ready(function(){});
 </script>
@@ -53,7 +51,7 @@
     <footer>Written and Coded by<a href="https://www.freecodecamp.com/tiani91" target="blank_">Tiani Ball</footer></div>
   </html>
 </div>
-//CSS//
+
 <script> .img-responsive 
 
 h1.one {
@@ -77,7 +75,7 @@ img.displayed {
   background-color: lightgrey;
 }
 .blockquote{border: none;}
-//JS//
+
 $("h1, h2, h3").css("color", "darkgreen");
 $("li").css("color", "darkred");
 $("h1, h2, h3, p, footer").css("text", "center");
